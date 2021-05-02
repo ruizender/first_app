@@ -1,24 +1,6 @@
-# README
+Link de heroku
+https://dashboard.heroku.com/apps/firstapperuiz
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Link de github
+https://github.com/ruizender/first_app
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
